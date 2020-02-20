@@ -1,6 +1,7 @@
 # main links
 main:
-  - title: "Google"
-    url: https://google.com/
-  - title: "About"
-    url: /about/
+ - title: "Categories"
+    url: /categories/
+    
+ - title: "About"
+     url: /about/
