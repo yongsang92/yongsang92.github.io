@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "yongsang92"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/danbi.jpg"
   bio              : "Back-end Web Developer"
   location         : "Republic of Korea"
   email            : "yongsang92@kakao.com"
