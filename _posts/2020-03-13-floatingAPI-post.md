@@ -1,5 +1,5 @@
 ---
-title: "Toy Project"
+title: "floating population API"
 date: 2020-02-20
 categories: Projects
 tags: SpringRestDocs SpringHATEOAS
